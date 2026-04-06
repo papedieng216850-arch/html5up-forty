@@ -1,7 +1,7 @@
 name: CI-CD Docker Pipeline
 
 on:
-  push:
+ push:
     branches:
       - main
 
